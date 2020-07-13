@@ -1,6 +1,6 @@
 # Домашнее задание E8.9
 
-- git clone 
+- git clone https://github.com/Nick-zkokaz/DZ_E8.git
 - cd DZ_E8
 - docker-compose build
 - docker-compose up -d
